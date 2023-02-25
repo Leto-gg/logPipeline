@@ -1,4 +1,4 @@
-PUT _ingest/pipeline/your-pipeline-name
+PUT _ingest/pipeline/letosearch
 {
   "description": "Your pipeline description",
   "processors": [
