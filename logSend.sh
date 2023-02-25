@@ -1,6 +1,6 @@
 PUT _ingest/pipeline/letosearch
 {
-  "description": "Your pipeline description",
+  "description": "Logs from the Leto.gg Cloudflare worker instances",
   "processors": [
     {
       "grok": {
